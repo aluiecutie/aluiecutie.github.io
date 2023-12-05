@@ -1,3 +1,2 @@
 # aluiecutie.github.io
 Aluie Shane P. Lumañga
-theme: jekyll-theme-minimal
